@@ -11,7 +11,7 @@
     "build": "node build/build.js"
   },
   "dependencies": {
-    "@progress/kendo-buttons-vue-wrapper": "^2018.2.516",
+    "@progress/kendo-buttons-vue-wrapper": "dev",
     "@progress/kendo-theme-default": "^2.53.2",
     "@progress/kendo-ui": "^2018.2.530",
     "vue": "^2.5.2",
